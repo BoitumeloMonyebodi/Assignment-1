@@ -67,8 +67,8 @@ E.g Git=The most popular distributed version control system offering fast and fl
 Prompt engineering=is the process of writing instructions to get the best results from generative AI models.The importance of interacting with AI models is to help improve response relevance,ensure clarity,controls tone,saves time, reduces errors and maximizes the model’s capabilities.It also helps users achieve better outcomes with their AI interactions.
 
 2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague Prompt=”Help me with my project.”
 
+Vague Prompt=”Help me with my project.”
 Improved Prompt=”I’m working on a school project about the phases of the business cycle .Can you help me outline the key causes and consequences of global shifts that influence the length and severity of each phase?”
 The improved prompt is more effective because it:
 •Narrows the focus,making the question clearer and more specific
