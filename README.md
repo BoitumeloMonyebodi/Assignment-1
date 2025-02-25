@@ -29,6 +29,7 @@ Mastering Machine (1990s–present): With advances in hardware and cloud computi
 
 Waterfall methodologies =is a linear and sequential model,which means that it is a development phase that cannot begin until the previous phase is completed .We cannot overlap phases in this methodology.
 E.g Large-scale government=Developing complex government software systems with strict procurement processes and detailed specifications where changes during development are highly discouraged .
+
 ●Agile methodologies=Allows companies to develop and release software changes in small segments on a frequent basis.
 E.g Rapid response to market changes=When market conditions or competitor actions require quick adjustments to the product .Agile allows for flexible adaptation.
 
