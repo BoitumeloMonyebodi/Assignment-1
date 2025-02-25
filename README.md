@@ -9,9 +9,11 @@ Software engineering is the process of designing ,testing ,developing and mainte
 
 2.Identify and describe at least three key milestones in the evolution of software engineering. 
 
-●Software engineering coined=The term was first used in the 1960s at a NATO conference ,marking the formal recognition of software development as a distinct discipline.
-●Internet and Web technologies=Introduced in the 1990s.The rise of the internet significantly impacted software development with new technologies like HTML,Javascript and distributed systems.
-●DevOps=Introduced in the 2000s.DevOps practices integrated development and operations ,promoting faster software delivery and continuous feedback.
+Mastering Complexity (1950s–1960s): Early software was simple, but as systems grew more complex, structured programming and modular design were introduced to manage and reduce complexity, making software more maintainable.
+
+Mastering Process (1970s–1980s): As software projects became more complicated, formal development methodologies like the Waterfall model were created to ensure structured, repeatable processes for planning, building, and maintaining software.
+
+Mastering Machine (1990s–present): With advances in hardware and cloud computing, software engineering evolved to optimize for high-performance systems, distributed computing, and new technologies like machine learning, enabling software to leverage modern computing power effectively.
 
 3.List and briefly explain the phases of the Software Development Life Cycle.
 
